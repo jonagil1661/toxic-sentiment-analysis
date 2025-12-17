@@ -1,0 +1,9 @@
+Logistic Regression - Statistics Report
+              precision    recall  f1-score   support
+
+   Non-Toxic     0.9313    0.9931    0.9612      4339
+       Toxic     0.9603    0.6954    0.8067      1044
+
+    accuracy                         0.9354      5383
+   macro avg     0.9458    0.8442    0.8839      5383
+weighted avg     0.9369    0.9354    0.9312      5383

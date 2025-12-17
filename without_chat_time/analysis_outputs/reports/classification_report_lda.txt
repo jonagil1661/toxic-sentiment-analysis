@@ -1,0 +1,9 @@
+LDA-based Classifier - Statistics Report
+              precision    recall  f1-score   support
+
+   Non-Toxic     0.8279    0.9712    0.8938      4339
+       Toxic     0.5734    0.1609    0.2513      1044
+
+    accuracy                         0.8140      5383
+   macro avg     0.7006    0.5661    0.5726      5383
+weighted avg     0.7785    0.8140    0.7692      5383

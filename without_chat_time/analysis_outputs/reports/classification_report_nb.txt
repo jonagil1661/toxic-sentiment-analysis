@@ -1,0 +1,9 @@
+Multinomial Naive Bayes - Statistics Report
+              precision    recall  f1-score   support
+
+   Non-Toxic     0.9208    0.9942    0.9561      4339
+       Toxic     0.9642    0.6446    0.7727      1044
+
+    accuracy                         0.9264      5383
+   macro avg     0.9425    0.8194    0.8644      5383
+weighted avg     0.9292    0.9264    0.9205      5383

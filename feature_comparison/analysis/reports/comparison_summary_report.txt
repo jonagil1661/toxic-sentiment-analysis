@@ -1,0 +1,5 @@
+FEATURE COMPARISON REPORT (WITH CHAT TIME vs WITHOUT CHAT TIME): 
+
+  • Best Model (With Chat Time):    Logistic Regression - Accuracy: 0.9361
+  • Best Model (Without Chat Time): Logistic Regression - Accuracy: 0.9348
+  • Overall Winner: WITH Chat Time
